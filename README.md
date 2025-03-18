@@ -30,7 +30,7 @@ Come find us on the [development community chat](https://zulip.com/development-c
 [rust-case-study]: https://zulip.com/case-studies/rust/
 [features]: https://zulip.com/features/
 
-## Getting started
+## Getting started 
 
 - **Contributing code**. Check out our [guide for new
   contributors](https://zulip.readthedocs.io/en/latest/contributing/contributing.html)
